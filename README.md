@@ -1,0 +1,2 @@
+# gitmerge
+merge less
